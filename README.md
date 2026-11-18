@@ -1,1 +1,1 @@
-# Chinmay
+this directory is about practicing github
